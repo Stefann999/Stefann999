@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
+<h1 align="center">Hi there, I'm Stefan</h1>
 <h3 align="center">A passionate Back-End developer from Bulgaria</h3>
 
 - 🌱 I’m currently learning **C# .Net Web Development at <a href="https://www.softuni.bg/">SoftUni!</a>**
@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I love learning new things**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
