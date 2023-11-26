@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Stefan</h1>
 <h3 align="center">A passionate Back-End developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **C# .Net Web Development at <a href="https://www.softuni.bg/">SoftUni!</a>**
+- 🌱 I’m currently learning **C# .Net Web Development at <a href="https://www.softuni.bg/" target = "_blank">SoftUni!</a>**
 
 - 📫 How to reach me **stefchog25@gmail.com**
 
